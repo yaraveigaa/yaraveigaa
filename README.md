@@ -25,3 +25,5 @@
 ### 🗃️ Repository
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yaraveigaa&repo=dio-lab-open-source&bg_color=000&border_color=7f9c6f&show_icons=true&icon_color=7f9c6f&title_color=7f9c6f&text_color=7f9c6f)](https://github.com/yaraveigaa/dio-lab-open-source)
+
+![Snake animationl](https://github.com/yaraveigaa/yaraveigaa/blob/output/github-contribution-grid-snake.svg)
